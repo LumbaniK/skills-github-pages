@@ -1,4 +1,4 @@
 ---
-title: Welcome to my page
+Title: Welcome to my page
 ---
 
